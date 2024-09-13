@@ -1,0 +1,88 @@
+body{
+    background-color: #344a72;
+    font-family: 'Roboto', sans-serif;
+}
+.registry-box{
+    padding: 100px;
+    margin: 25%;
+    width: 360px;
+    height: 620px;
+    max-width: auto;
+    background-color: white;
+    border-radius: 3px;
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+h2{
+    text-align: center;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20;
+    font-size: 18px;
+}
+form input{
+    width: 100;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+table{
+    background-color: aqua;
+    margin: 25%;
+}
+.para-2{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin: -10px;
+}
+.para-2 a{
+    color: #49c1a2;
+}
+.para-1{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: -10px;
+}
+.para-1 a{
+    color: red;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #000;
+    border-radius: 15px;
+    object-fit: cover;
+
+}
+.para-3{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: -10px;
+}
+
